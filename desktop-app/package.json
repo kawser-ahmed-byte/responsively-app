@@ -273,6 +273,7 @@
       "buildResources": "assets",
       "output": "release/build"
     },
+    
     "extraResources": [
       "./assets/**"
     ],
